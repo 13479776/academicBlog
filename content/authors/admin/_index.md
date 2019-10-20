@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 栾合密  Dr.Luan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 副研究员、研究助理教授
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 南方科技大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Omcis, Mass Spectrometry, Metabolomics
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mass spectrometry
+- Omics methods
+- Metabolomics
+- Small molecule metabolism
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mass Spectrometry and Analytical Chemistry
+    institution: Hong Kong Baptist University
+    year: 2017
+  - course: Master in Phmarcy 
+    institution: Nanjing University of TCM
+    year: 2010
+  - course: BSc in Phmarcy
+    institution: Henan University
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'  # For a direct email link, use "mailto:luanhm@sustech.edu.cn".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/13479776
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Nb6_ZgMAAAAJ&hl=en
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1448572/hemi-luan/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests focus on Mass spectrometry, high-throughput technology in omics methods, and small molecule metabolism and regulation. We developed new mass spectrometry based analytical techniques (PCI-GC-MS/MS, shotgun lipidomics, LC-MS), data processing algorithm and bioinformatics software (statTarget, https://stattarget.github.io). By applying mass spectrometry, in combination with the metabolism and molecular biology, we will quantitatively explain the small molecule metabolism and regulation process.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+研究兴趣包括质谱分析，组学方法，小分析代谢与功能调控。发表20余篇SCI收录国际期刊论文。发展了高通量、高重复性的质谱组学方法及新的算法软件等，包括DIA定量蛋白质组学、脂质组学、高通量代谢组学等分析方法以及软件statTarget （下载次数超过万次,2016-2018）。运用质谱分析方法，结合代谢与分子生物学，更好地理解小分子的新陈代谢，以及精确定量代谢和活性调控过程。
+
