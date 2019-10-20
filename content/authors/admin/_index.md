@@ -31,7 +31,7 @@ education:
   - course: PhD in Mass Spectrometry and Analytical Chemistry
     institution: Hong Kong Baptist University
     year: 2017
-  - course: Master in Phmarcy 
+  - course: MSc in Phmarcy 
     institution: Nanjing University of TCM
     year: 2010
   - course: BSc in Phmarcy
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-My research interests focus on Mass spectrometry, high-throughput technology in omics methods, and small molecule metabolism and regulation. We developed new mass spectrometry based analytical techniques (PCI-GC-MS/MS, shotgun lipidomics, LC-MS), data processing algorithm and bioinformatics software (statTarget, https://stattarget.github.io). By applying mass spectrometry, in combination with the metabolism and molecular biology, we will quantitatively explain the small molecule metabolism and regulation process.
+My research interests focus on Mass spectrometry, high-throughput technology in omics methods, and small molecule metabolism and regulation. We developed new mass spectrometry based analytical techniques (DIA, shotgun lipidomics, LC-HRMS), data processing algorithm and bioinformatics software (statTarget, https://stattarget.github.io). By applying mass spectrometry, in combination with the metabolism and molecular biology, we will quantitatively explain the small molecule metabolism and regulation process.
 
 研究兴趣包括质谱分析，组学方法，小分析代谢与功能调控。发表20余篇SCI收录国际期刊论文。发展了高通量、高重复性的质谱组学方法及新的算法软件等，包括DIA定量蛋白质组学、脂质组学、高通量代谢组学等分析方法以及软件statTarget （下载次数超过万次,2016-2018）。运用质谱分析方法，结合代谢与分子生物学，更好地理解小分子的新陈代谢，以及精确定量代谢和活性调控过程。
 
