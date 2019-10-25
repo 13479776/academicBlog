@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "获邀Speaker 2020第八届亚太地区质谱年会，澳门（AOMSC 2020, MACAU） "
+title: "栾合密博士获邀Speaker 2020第八届亚太地区质谱年会，澳门（AOMSC 2020, MACAU） "
 subtitle: ""
 summary: ""
 authors: []
