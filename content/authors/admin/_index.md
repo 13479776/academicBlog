@@ -31,10 +31,10 @@ education:
   - course: PhD in Mass Spectrometry and Analytical Chemistry
     institution: Hong Kong Baptist University
     year: 2017
-  - course: MSc in Phmarcy 
+  - course: MSc in Pharmacy 
     institution: Nanjing University of TCM
     year: 2010
-  - course: BSc in Phmarcy
+  - course: BSc in Pharmacy
     institution: Henan University
     year: 2007
 
